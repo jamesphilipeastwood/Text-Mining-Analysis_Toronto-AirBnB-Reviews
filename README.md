@@ -3,7 +3,7 @@
 - **Course:** OPIM 5671 Data Mining and Time Series Forecasting (University of Connecticut)
 - **Instructor:** Jaeung Sim
 - **Team Seven:** Matthew Koh, Preshitha Sureshkumar, James Eastwood, Rama Akach, Kaan Ates Boyaci, Luke Bauer
-- **Main Analysis Notebook:** [OPIM_5671_Team_Project_02_Toronto_Airbnb_Reviews_v4.ipynb](OPIM_5671_Team_Project_02_Toronto_Airbnb_Reviews_v4.ipynb)
+- **Main Analysis Notebook:** [OPIM_5671_Team_Project_02_Toronto_Airbnb_Reviews_Final Notebook.ipynb](OPIM_5671_Team_Project_02_Toronto_Airbnb_Reviews_Final%20Notebook.ipynb)
 
 ## Project Overview
 
@@ -73,11 +73,11 @@ To look past inflated summary scores, this project links individual timestamped 
 
 ## How to Run
 
-Open [OPIM_5671_Team_Project_02_Toronto_Airbnb_Reviews_v4.ipynb](OPIM_5671_Team_Project_02_Toronto_Airbnb_Reviews_v4.ipynb) in Google Colab, JupyterLab, or VS Code and run all cells from top to bottom. On startup, the setup cells automatically check and install required packages (`kagglehub`, `nltk`, `textblob`, `nrclex`), fetch required NLTK lexical corpora, and download the Inside Airbnb Toronto dataset from Kaggle.
+Open [OPIM_5671_Team_Project_02_Toronto_Airbnb_Reviews_Final Notebook.ipynb](OPIM_5671_Team_Project_02_Toronto_Airbnb_Reviews_Final%20Notebook.ipynb) in Google Colab, JupyterLab, or VS Code and run all cells from top to bottom. On startup, the setup cells automatically check and install required packages (`kagglehub`, `nltk`, `textblob`, `nrclex`), fetch required NLTK lexical corpora, and download the Inside Airbnb Toronto dataset from Kaggle.
 
 ## Repository Structure
 
-- [OPIM_5671_Team_Project_02_Toronto_Airbnb_Reviews_v4.ipynb](OPIM_5671_Team_Project_02_Toronto_Airbnb_Reviews_v4.ipynb) — Final v4 analysis notebook with deterministic sampling, listing-grouped validation splits, and complete findings.
+- [OPIM_5671_Team_Project_02_Toronto_Airbnb_Reviews_Final Notebook.ipynb](OPIM_5671_Team_Project_02_Toronto_Airbnb_Reviews_Final%20Notebook.ipynb) — Final v4 analysis notebook with deterministic sampling, listing-grouped validation splits, and complete findings.
 - [Previous Notebook Versions/](Previous%20Notebook%20Versions/) — Earlier notebook versions preserved for reference (`OPIM_5671_Team_Project_02_Toronto_Airbnb_Reviews.ipynb` and `OPIM_5671_Team_Project_02_Toronto_Airbnb_Reviews_v2.ipynb`).
 - [OPIM 5671 - Team Project 2.docx.pdf](OPIM%205671%20-%20Team%20Project%202.docx.pdf) — Team Seven project proposal and analytical plan.
 - [Documents/](Documents/) — Course materials including [OPIM-5671 Team Project #2 Guideline.pdf](Documents/OPIM-5671%20Team%20Project%20%232%20Guideline.pdf), syllabus, and lecture decks.
